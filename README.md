@@ -1,2 +1,2 @@
-# mce
-Modern CMake Extensions.
+# mmce
+More Modern CMake Extensions.
